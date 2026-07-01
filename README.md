@@ -3,7 +3,7 @@
 A secure, cloud-hosted tracking application built to streamline daily operations and attendance logging for a 14-person technical team.
 
 ## 🚀 Live Application
-[Link to your live Streamlit Cloud URL here]
+[View the Live Tracker Here](https://dynamic-cell-attendance-9q2lq595mvnxku2vxrv9j8.streamlit.app/)
 
 ## 🏗️ Architecture & Tech Stack
 * **Frontend:** Python & Streamlit (Responsive UI, Interactive Dashboards)
